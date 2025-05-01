@@ -28,19 +28,6 @@ I'm a **Software Developer** passionate about crafting intuitive and scalable we
 </div>
 
 ---
-
-## 🔥 Projects
-
-### [EduConnect](https://github.com/BEKI77/educonnect)
-A parental engagement platform that empowers parents to track student progress and attendance, manage school events, and communicate with educators.
-
-- **Tech Stack**: Node.js, Express, MongoDB, JavaScript
-- **Features**:
-  - Parental Dashboard for tracking student progress.
-  - Integrated messaging tools for parent-educator communication.
-  - Secure user authentication and role-based access control.
-
----
 ### :fire: My Stats :
 <div align="center" >
 
