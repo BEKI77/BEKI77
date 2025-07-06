@@ -9,7 +9,7 @@
 
 # Hi there, I'm Bereket Tadiwos 👋
 
-I'm a **Engineer** passionate about crafting intuitive and scalable web applications. I have a strong foundation in software engineering, competitive programming, and modern web development. Currently, I'm pursuing my Bachelor's in Electrical and Computer Engineering at Addis Ababa Science and Technology University.
+I'm an **Engineer** passionate about crafting intuitive and scalable web applications. I have a strong foundation in software engineering, competitive programming, and modern web development. Currently, I'm pursuing my Bachelor's in Electrical and Computer Engineering at Addis Ababa Science and Technology University.
 
 ---
 
