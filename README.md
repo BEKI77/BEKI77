@@ -55,16 +55,4 @@ I'm an **Engineer** passionate about crafting intuitive and scalable web applica
 
 ---
 
-## 📫 Connect with Me
-- 📧 Email: [berekettadiwos00@gmail.com](mailto:berekettadiwos00@gmail.com)
 
----
-<div align="center">
-  <div>
-    Feel free to reach out for collaboration and let's 
-  </div>
-
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25uNGF1eG56bnhlcXhjaWVsY24xeTVvbzR1aTd3cjNrNGk2NTFrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MAUi9Z4eRvaD6CpuMi/giphy.gif" width=200 />
-</div>
-
----
