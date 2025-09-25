@@ -1,49 +1,30 @@
-<div id="header" align="center" >
- <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExem9pdDNmdjczb25pMzVrbGRvYWlzbzR2OHJmMGFmaXZka2tlODJ1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif" width="300" margin-bottom="10" />
-  <div id="badges">
-    <a href="https://linkedin.com/in/bereket-tadiwos">
-      <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="200" />
-    </a>
- </div> 
-</div>
+# Hi, I'm Bereket Tadiwos  
 
-# Hi there, I'm Bereket Tadiwos 👋
-
-I'm an **Engineer** passionate about crafting intuitive and scalable web applications. I have a strong foundation in software engineering, competitive programming, and modern web development. Currently, I'm pursuing my Bachelor's in Electrical and Computer Engineering at Addis Ababa Science and Technology University.
+I’m an **Engineer** passionate about building intuitive and scalable applications. Currently pursuing my **Bachelor’s in Electrical & Computer Engineering** at Addis Ababa Science and Technology University.  
 
 ---
 
-🚀 Languages and Tools :
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
-</div>
+## 🛠️ Tech Stack  
+- **Languages:** Java, JavaScript, TypeScript, Python, C++, Golang
+- **Frontend:** React, Next.js, Redux, Material UI, TailwindCSS  
+- **Backend:** Node.js, NestJS, Express, Spring-boot, Gin
+- **Moblie:** Flutter, React Native
+- **Database:** Postgres, Mongo, redis, Mysql  
+- **Tools:** Git, Docker, Kubernetes
 
 ---
-### :fire: My Stats :
-<div align="center" >
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BEKI77&theme=dark&background=000000)](https://git.io/streak-stats)
+## 📊 GitHub Stats  
+<div align="left">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BEKI77&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BEKI77&theme=dark&background=000000)](https://git.io/streak-stats)  
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BEKI77&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+
 </div>
 
 ---
 
-## 🎯 Currently Learning
-
-- Advanced **data structures and algorithms** to improve problem-solving on platforms like LeetCode and Codeforces.
-- Diving deeper into **scalable web application** development using **TypeScript** and **MongoDB**.
-
----
-
-
+## 📚 Currently Learning  
+- Advanced **data structures & algorithms**  
+- **Scalable web apps** with TypeScript & MongoDB  
