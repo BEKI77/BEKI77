@@ -17,3 +17,5 @@ I’m an **Engineer** passionate about building intuitive and scalable applicati
 ## 📚 Currently Learning  
 - Advanced **data structures & algorithms**  
 - **Scalable web apps** with TypeScript & MongoDB  
+
+[![](http://github-readme-streak-stats.herokuapp.com?user=BEKI77&theme=dark&background=000000)](https://git.io/streak-stats)
