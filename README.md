@@ -46,13 +46,4 @@ I'm an **Engineer** passionate about crafting intuitive and scalable web applica
 
 ---
 
-## 📊 Coding Activity
-<div align="center">
-
-  ![Leetcode Stats](https://leetcard.jacoblin.cool/Mclovinbek?ext=heatmap&theme=dark&width=900&height=400)
-  
-</div>
-
----
-
 
