@@ -6,7 +6,7 @@ I’m an **Engineer** passionate about building intuitive and scalable applicati
 
 ## 🛠️ Tech Stack  
 - **Languages:** Java, JavaScript, TypeScript, Python, C++, Golang
-- **Frontend:** React, Next.js, Redux, Material UI, TailwindCSS  
+- **Frontend:** React, Next.js, Redux, TailwindCSS  
 - **Backend:** Node.js, NestJS, Express, Spring-boot, Gin
 - **Moblie:** Flutter, React Native
 - **Database:** Postgres, Mongo, redis, Mysql  
