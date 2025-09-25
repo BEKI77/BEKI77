@@ -14,17 +14,6 @@ I’m an **Engineer** passionate about building intuitive and scalable applicati
 
 ---
 
-## 📊 GitHub Stats  
-<div align="left">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BEKI77&theme=dark&background=000000)](https://git.io/streak-stats)  
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BEKI77&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
-
-</div>
-
----
-
 ## 📚 Currently Learning  
 - Advanced **data structures & algorithms**  
 - **Scalable web apps** with TypeScript & MongoDB  
