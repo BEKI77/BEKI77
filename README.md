@@ -1,6 +1,6 @@
 # Hi, I'm Bereket Tadiwos  
 
-I’m an **Engineer** passionate about building intuitive and scalable applications. Currently pursuing my **Bachelor’s in Electrical & Computer Engineering** at Addis Ababa Science and Technology University.  
+An **Engineer** passionate about building intuitive and scalable applications. Currently pursuing my **Bachelor’s in Electrical & Computer Engineering** at Addis Ababa Science and Technology University.  
 
 ---
 
