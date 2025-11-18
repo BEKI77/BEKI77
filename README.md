@@ -15,7 +15,7 @@ An **Engineer** passionate about building intuitive and scalable applications. C
 ---
 
 ## 📚 Currently Learning  
-- Advanced **data structures & algorithms**  
-- **Scalable web apps** with TypeScript & MongoDB  
+- Advanced **data structures & algorithms**
+- web3
 
 [![](http://github-readme-streak-stats.herokuapp.com?user=BEKI77&theme=dark&background=000000)](https://git.io/streak-stats)
