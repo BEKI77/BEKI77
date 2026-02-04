@@ -14,8 +14,4 @@ An **Engineer** who likes to build stuff. Currently pursuing my **Bachelor’s i
 
 ---
 
-## 📚 Currently Learning  
-- Advanced **data structures & algorithms**
-- web3
-
 [![](http://github-readme-streak-stats.herokuapp.com?user=BEKI77&theme=dark&background=000000)](https://git.io/streak-stats)
