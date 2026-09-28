@@ -1,8 +1,4 @@
-# Hi, I'm Bereket Tadiwos  
-
-An **Engineer** who likes to build.  
-
----
+# Hi, I'm Bereket Tadiwos    
 
 ## 🛠️ Tech Stack  
 - **Languages:** Java, JavaScript, TypeScript, Python, C++, Golang
